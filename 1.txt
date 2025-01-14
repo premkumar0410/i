@@ -8,3 +8,5 @@ i am 20 years old
 i am an student
 
 at sathyabama university
+
+with cgpa of 7.6
